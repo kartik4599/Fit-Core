@@ -1,4 +1,4 @@
-# flutter_application_2
+# Fit Core
 
 A new Flutter project.
 
