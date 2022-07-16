@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "title":"Glues",
+        "img":"assets/glues.jpg",
+        "week":"Monday"
+    },
+    {
+        "id":2,
+        "title":"Abs",
+        "img":"assets/abs.jpg",
+        "week":"Tuesday"
+    },
+    {
+        "id":3,
+        "title":"Legs",
+        "img":"assets/legs.jpg",
+        "week":"Wednesday"
+    },
+    {
+        "id":4,
+        "title":"Arms",
+        "img":"assets/hand.jpg",
+        "week":"Thursday"
+    },
+    {
+        "id":5,
+        "title":"Back",
+        "img":"assets/back.png",
+        "week":"Friday"
+    },
+    {
+        "id":6,
+        "title":"Shoulder",
+        "img":"assets/shoulder.png",
+        "week":"Saturday"
+    }
+    
+]
